@@ -1,2 +1,2 @@
 # myOpenSet
-### my access to free open dataset repos for easy workflow
+### Access to free open dataset repos for easy workflow
