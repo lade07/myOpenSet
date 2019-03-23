@@ -1,7 +1,5 @@
 ﻿ICD-10 Description,,ICD-10 Code3,All persons,Male,Female
-,,,,,
 Total,,,"6,813","4,431","2,382"
-,,,,,
 Mental and behavioural disorders due to use of alcohol,,F10,405,288,117
 Degeneration of nervous system due to alcohol,,G31.2,9,6,3
 Alcoholic polyneuropathy,,G62.1,0,0,0
@@ -14,4 +12,3 @@ Alcohol induced chronic pancreatitis,,K86.0,7,7,0
 Accidental poisoning by and exposure to alcohol,,X45,313,205,108
 Intentional self-poisoning by and exposure to alcohol,,X65,4,3,1
 "Poisoning by and exposure to alcohol, undetermined intent",,Y15,4,3,1
-,,,,,
